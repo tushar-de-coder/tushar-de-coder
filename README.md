@@ -30,12 +30,6 @@ I'm an Engineering student specializing in **Artificial Intelligence & Data Scie
 
 ### 🎯 Current Focus
 
-Building real-world AI applications that solve practical problems and enhance user experiences.
-
-📫 Always open to collaborating on AI, ML, and innovative tech projects.
-
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yadav_tushar157) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tushar .) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tushar010507@gmail.com) 
 
