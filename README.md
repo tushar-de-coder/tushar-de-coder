@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**tushar-de-coder/tushar-de-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 # 💫 About Me:
 
 I'm an Engineering student specializing in **Artificial Intelligence & Data Science**.
