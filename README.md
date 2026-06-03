@@ -2,6 +2,8 @@
 
 
 # 💫 About Me:
+![Alternative text for the image](https://github.com/tushar-de-coder/tushar-de-coder/blob/89187d353266bd39a0b1230db15738c65a36a90b/img%20git.png)
+
 
 I'm an Engineering student specializing in **Artificial Intelligence & Data Science**.
 
